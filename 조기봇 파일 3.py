@@ -37,9 +37,4 @@ async def on_message(message):
         await message.channel.send("걍 꼴아박아!")
 
         
->>> client.run('ODc0NTMzMTEwMTkxMDk5OTQ0.YRIWbQ.Ole_eFC3vD_F5o7-sBwIgBqEVE8')
-디스코드 봇 로그인이 완료되었습니다.
-디스코드봇 이름:조기봇
-디스코드봇 ID:874533110191099944
-디스코드봇 버전:1.7.3
-------
+>>> client.run('ODc0NTMzMTEwMTkxMDk5OTQ0.YRIWbQ.vRZsDZSsXhSRN-18TisSt18EVSg')
